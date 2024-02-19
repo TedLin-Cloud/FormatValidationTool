@@ -59,6 +59,4 @@ public class Idmodel1
 
 | Version  | Author | Dependencies |  Last updated   | 說明 |
 | ------------| ------------|------------|------------ | ------------ |
-| 1.0.0  | Tedlin | net6.0| 2023/03/31 | 新增ID驗證 |
-| 1.0.1  | Tedlin | net6.0| 2023/04/06 | 將驗證Function拆分 |
-| 1.0.2  | Tedlin | netstandard2.0| 2023/12/13 | 改為netstandard2.0 |
+| 1.0.0  | Tedlin | netstandard2.0| 2023/12/13 |  |
